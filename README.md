@@ -2,9 +2,9 @@
 
 Label-free super-resolution quantitative phase microscopy using holographic recording and structured illumination microscopy.
 
-This repository provides the numerical simulation and reconstruction codes for HoloSIM, a computational framework that combines holographic recording, near-field transfer, structured illumination microscopy (SIM), and phase retrieval to achieve label-free super-resolution quantitative phase imaging.
+This repository provides the numerical simulation and reconstruction code for HoloSIM, a computational framework for label-free super-resolution quantitative phase microscopy.
 
-The code accompanies our publication: Label-free super-resolution quantitative phase microscopy, Journal of Physics: Photonics. Please cite our paper if you use this code in your research.
+The code accompanies our publication: [Label-free super-resolution quantitative phase microscopy](https://doi.org/10.1088/2515-7647/aeb213), *Journal of Physics: Photonics*. Please cite our paper if you use this code in your research.
 
 ## Principle
 
