@@ -1,14 +1,10 @@
 # HoloSIM
 
-HoloSIM is a computational framework for label-free super-resolution
-quantitative phase microscopy by combining holographic recording with
-structured illumination microscopy (SIM).
+Label-free super-resolution quantitative phase microscopy using holographic recording and structured illumination microscopy.
 
-## Publication
+This repository provides the numerical simulation and reconstruction codes for HoloSIM, a computational framework that combines holographic recording, near-field transfer, structured illumination microscopy (SIM), and phase retrieval to achieve label-free super-resolution quantitative phase imaging.
 
-**Label-free super-resolution quantitative phase microscopy**
-
-*Journal of Physics: Photonics*   [Paper](https://doi.org/10.1088/2515-7647/aeb213)
+The code accompanies our publication: Label-free super-resolution quantitative phase microscopy, Journal of Physics: Photonics. Please cite our paper if you use this code in your research.
 
 ## Principle
 
