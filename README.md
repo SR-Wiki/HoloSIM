@@ -8,9 +8,7 @@ structured illumination microscopy (SIM).
 
 **Label-free super-resolution quantitative phase microscopy**
 
-*Journal of Physics: Photonics*
-
-[Paper](https://doi.org/10.1088/2515-7647/aeb213)
+*Journal of Physics: Photonics*   [Paper](https://doi.org/10.1088/2515-7647/aeb213)
 
 ## Principle
 
